@@ -1,0 +1,2 @@
+# Smart_dustbin_system
+This project was undertaken as a by me and my teammates, Rajdeep Debnath and T.Jitendra Kumar, as a part of our partiipation in "Prakriti "event in Kshitij,2017. Kshitij is the annual tech fest of IIT Kharagpur. Our team eventually won the 2nd prize at the event. Howevver, over the ourse of time and after 2 system (laptop) crashes due to which we lost most our progress on this work. 
